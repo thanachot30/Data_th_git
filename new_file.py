@@ -1,0 +1,1 @@
+print("am new file in my computer, new i think i should make linkIn to present to find Hiring work about data engineer ")
